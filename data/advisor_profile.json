@@ -1,0 +1,13 @@
+{
+  "professor": "Furong Huang",
+  "university": "University of Maryland",
+  "program": "Computer Science",
+  "research_area": "Trustworthy ML, RL, generative AI, high-dimensional statistics",
+  "representative_paper": "Tensor Decompositions for Learning Latent Variable Models; 2014; JMLR",
+  "paper_link": "https://scholar.google.com/scholar?q=Tensor+Decompositions+for+Learning+Latent+Variable+Models",
+  "project_family": "trustworthy",
+  "focus": "Trustworthy ML",
+  "value_add_artifact": "adaptive red-team and repair regression harness",
+  "next_step": "Replace seed cases with task-specific failures and verify repairs do not regress safe cases.",
+  "generated_for": "professor outreach value-add starter"
+}
